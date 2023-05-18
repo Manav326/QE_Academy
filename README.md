@@ -1,1 +1,1 @@
-# QE_Academy
+# QuantaEdge Academy
